@@ -1,0 +1,293 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* form-1 */
+.card_1 {
+  width: 370px;
+  height: 480px;
+  background-color: whitesmoke;
+  margin-left: 550px;
+}
+
+.border_1 {
+  width: 350px;
+  height: 390px;
+  border: 2px solid red;
+  margin-left: 560px;
+  margin-top: -420px;
+}
+
+.text_1 {
+  margin: 10px;
+  padding-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.input_firstname {
+  width: 250px;
+  height: 25px;
+  margin-left: 50px;  
+  margin-top: 60px;
+  border-radius: 8px;
+  border-color: rgb(0, 255, 170);
+}
+
+.button_submit {
+  width: 255px;
+  height: 30px;
+  margin-left: 50px;
+  margin-top: 30px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  color: white;
+  background-color: indigo;
+}
+/* form-1 */
+
+
+/* form-2 */
+.card_2 {
+  width: 400px;
+  height: 350px;
+  background-color: whitesmoke;
+  margin-left: 540px;
+  margin-top: 50px;
+}
+
+.text_2 {
+  margin-left: 90px;
+  padding-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-p {
+  color: grey;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.input_email {
+  width: 250px;
+  height: 20px;
+  margin-left: 80px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.button_next {
+  background-color: rgb(0, 255, 0);
+  color: white;
+  border: none;
+  width: 100px;
+  height: 30px;  
+  margin-left: 150px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+/* form-2 */
+
+/* form-3 */
+.card_3 {
+  width: 480px;
+  height: 480px;
+  background-color: rgb(46, 44, 44);
+  margin-left: 550px;
+  margin-top: 50px;
+}
+
+.text_3 {
+  text-align: center;
+  color: white;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p_text {
+  text-align: center;
+  color: grey;
+  font-size: 10px;
+  margin-top: -12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.input_name {
+  width: 380px;
+  height: 22px;
+  margin-top: 20px;
+  margin-left: 30px;
+  background-color: black;
+  border: none;
+  padding: 15px;
+  color: white;
+}
+
+.input_email2 {
+  width: 200px;
+  height: 20px;
+  margin-left: 30px;
+  color: white;
+  background-color: black;
+  border: none;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+.input_phonenumber {
+  width: 160px;
+  height: 50px;
+  color: white;
+  background-color: black;
+  border: none;
+  margin-left: 15px;
+}
+
+.textarea {
+  background-color: black;
+  color: white;
+  margin-left: 24px;
+  margin-top: 20px;
+}
+
+.button_sendmessage {
+  background-color: blue;
+  color: white;
+  border-radius: 16px;
+  width: 150px;
+  height: 35px;
+  margin-top: 14px;
+  margin-left: 300px;
+  cursor: pointer;
+  border: none;
+}
+/* form-3 */
+
+/* form-4 */
+.fon {
+  width: 1500px;
+  height: 680px;
+  padding-top: 50px;
+  background-color: whitesmoke;
+}
+.card_4 {
+  width: 400px;
+  height: 320px;
+  background-color: white;
+  margin-left: 550px;
+}
+
+.registration {
+  margin: 20px;
+  margin-left: 50px;
+  padding-top: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.input_name2 {
+  border: none;
+  border-bottom: 1px solid grey;
+  outline: none;
+  margin-left: 50px;
+  width: 320px;
+}
+
+.input_date {
+  border: none;
+  border-bottom: 1px solid grey;
+  outline: none;
+  margin-top: 25px;
+  margin-left: 50px;
+  width: 130px;
+}
+
+.input_gender {
+  border: none;
+  border-bottom: 1px solid grey;
+  outline: none;
+  margin-top: 25px;
+  margin-left: 27px;
+  width: 130px;
+}
+
+.input_class {
+  border: none;
+  border-bottom: 1px solid grey;
+  outline: none;
+  margin-top: 25px;
+  margin-left: 50px;
+  width: 290px;
+}
+
+.input-registrationcode {
+  border: none;
+  border-bottom: 1px solid grey;
+  outline: none;
+  margin-top: 25px;
+  margin-left: 50px;
+  width: 170px;
+}
+
+.button-search {
+  width: 80px;
+  height: 30px;
+  color: white;
+  background-color: rgb(0, 255, 0);
+  border: none;
+  cursor: pointer;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+/* form-4 */
+
+/* form-5 */
+.text_welcome {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 70px;
+}
+.img_photo {
+  margin-top: 30px;
+  margin-left: 730px;
+  border-radius: 50%;
+  width: 70px;
+}
+
+.input_username {
+  border: none;
+  border-bottom: 1px solid grey;
+  outline: none;
+  margin-top: 40px;
+  margin-left: 650px;
+  width: 250px;
+}
+.input_username:hover {
+  border-color: rgb(0, 255, 0);
+}
+
+.input_password1 {
+  border: none;
+  border-bottom: 1px solid grey;
+  outline: none;
+  margin-top: 30px;
+  margin-left: 650px;
+  width: 250px;
+}
+.input_password1:hover {
+  border-color: rgb(0, 255, 0);
+}
+
+.button_login {
+  width: 250px;
+  height: 30px;
+  color: white;
+  background-color: rgb(0, 255, 0);
+  border-radius: 16px;
+  border: none;
+  margin-left: 650px;
+  margin-top: 30px;
+  cursor: pointer;
+}
+/* form-5 */
